@@ -214,3 +214,6 @@ console.log(!![]);
 // সমস্যা ৪০: অদ্ভুত যোগফল (String + Boolean)
 console.log("true" + 5); 
 // Output: ?
+
+let ludo = Math.floor(Math.random() * 6) + 1;
+console.log(ludo)

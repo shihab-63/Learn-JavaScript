@@ -23,12 +23,12 @@ console.log(x - y) // Subtraction Operator
 console.log(x * y) // Multiplication Operator
 console.log(x / y) // Division Operator
 console.log(x ** y) // Exponentiation Operator
-console.log(x % y) // Modulus Operator
+console.log(x % y) // Modulus Operator / remainder operator
 
 //? Unary Operator
 // ------------------
-// 1. Post-Increment (x++): 
-// 2. Pre-Increment (++x):
+// 1. Post-Increment (x++) / (x--): 
+// 2. Pre-Increment (++x) / (--x):
 //? Example:
 // ----------
 let count = 5;
